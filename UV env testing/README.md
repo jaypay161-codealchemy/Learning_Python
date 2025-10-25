@@ -14,5 +14,5 @@ However, it stands successful after following below steps...
 
 > now write cmd line "uv run python main.py"
 
-> output will show : 
+> output will show : "Hello from jp!"
 
